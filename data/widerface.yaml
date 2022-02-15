@@ -1,0 +1,8 @@
+train: /content/Data/train/images # path to train folder
+val: /content/Data/val/images # path to val folder
+
+# number of classes
+nc: 1
+
+# class names
+names: ["Face"]
